@@ -1,0 +1,7 @@
+D:\JinoRepos\Jino Project\Bags\Bags\bin\Debug\Bags.exe.config
+D:\JinoRepos\Jino Project\Bags\Bags\bin\Debug\Bags.exe
+D:\JinoRepos\Jino Project\Bags\Bags\bin\Debug\Bags.pdb
+D:\JinoRepos\Jino Project\Bags\Bags\obj\Debug\Bags.csproj.AssemblyReference.cache
+D:\JinoRepos\Jino Project\Bags\Bags\obj\Debug\Bags.csproj.CoreCompileInputs.cache
+D:\JinoRepos\Jino Project\Bags\Bags\obj\Debug\Bags.exe
+D:\JinoRepos\Jino Project\Bags\Bags\obj\Debug\Bags.pdb
